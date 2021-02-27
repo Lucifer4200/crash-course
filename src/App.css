@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+img.about-thumb {
+  height: 250px;
+  width: 100%;
+}
